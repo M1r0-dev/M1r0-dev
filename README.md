@@ -2,7 +2,8 @@
 
 - 🚀 Interested in backend development using C++ and Go  
 - 📘 Currently learning C++, Go, algorithms, and data structures  
-- 🎓 Student at Innopolis University  
+- 🎓 Student at Innopolis University
+- LeetCode: https://leetcode.com/u/m1r0tvorxc/
 
 <!---
 M1r0-dev/M1r0-dev is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
