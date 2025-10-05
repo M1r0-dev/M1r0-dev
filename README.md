@@ -1,6 +1,6 @@
 # Hi there, I'm @M1r0-dev 👋
 
-- 🚀 Interested in backend development using C++ and Go  
+- 🚀 Interested in backend development using Go and C++  
 - 📘 Currently learning C++, Go, algorithms, and data structures  
 - 🎓 Student at Innopolis University
 - LeetCode: https://leetcode.com/u/m1r0tvorxc/
